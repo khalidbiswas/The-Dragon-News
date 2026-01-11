@@ -6,7 +6,7 @@ const Navbar = () => {
         <div className='flex justify-between'>
            <div className=''></div>
            <div className='nav flex gap-3 text-accent'>
-            <NavLink to={'/home'}>Home</NavLink>
+            <NavLink to={'/'}>Home</NavLink>
             <NavLink to={'/about'}>About</NavLink>
             <NavLink to={'/carrer'}>Carrer</NavLink>
            </div>
