@@ -25,7 +25,7 @@ const CategoryNews = () => {
 
         }
     }, [data, id])
-    console.log(news);
+    // console.log(news);
 
     return (
 
